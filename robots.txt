@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ucitinchi.github.io/sitemap
+Sitemap: https://ucitinchi.github.io/app/sitemap
+Sitemap: https://ucitinchi.github.io/assets/sitemap
+Sitemap: https://ucitinchi.github.io/css/sitemap
+Sitemap: https://ucitinchi.github.io/includes/sitemap
+Sitemap: https://ucitinchi.github.io/item/sitemap
+Sitemap: https://ucitinchi.github.io/src/sitemap
